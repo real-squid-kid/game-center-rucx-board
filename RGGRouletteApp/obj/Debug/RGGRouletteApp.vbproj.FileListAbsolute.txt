@@ -1,0 +1,21 @@
+C:\Users\vasilymakrov\Documents\Visual Studio 2017\Projects\RGGRouletteApp\RGGRouletteApp\bin\Debug\RGGRouletteApp.exe
+C:\Users\vasilymakrov\Documents\Visual Studio 2017\Projects\RGGRouletteApp\RGGRouletteApp\bin\Debug\RGGRouletteApp.pdb
+C:\Users\vasilymakrov\Documents\Visual Studio 2017\Projects\RGGRouletteApp\RGGRouletteApp\bin\Debug\RGGRouletteApp.xml
+C:\Users\vasilymakrov\Documents\Visual Studio 2017\Projects\RGGRouletteApp\RGGRouletteApp\obj\Debug\RGGRouletteApp.vbprojResolveAssemblyReference.cache
+C:\Users\vasilymakrov\Documents\Visual Studio 2017\Projects\RGGRouletteApp\RGGRouletteApp\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\vasilymakrov\Documents\Visual Studio 2017\Projects\RGGRouletteApp\RGGRouletteApp\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\vasilymakrov\Documents\Visual Studio 2017\Projects\RGGRouletteApp\RGGRouletteApp\obj\Debug\RGGRouletteApp.vbproj.GenerateResource.Cache
+C:\Users\vasilymakrov\Documents\Visual Studio 2017\Projects\RGGRouletteApp\RGGRouletteApp\obj\Debug\RGGRouletteApp.exe
+C:\Users\vasilymakrov\Documents\Visual Studio 2017\Projects\RGGRouletteApp\RGGRouletteApp\obj\Debug\RGGRouletteApp.xml
+C:\Users\vasilymakrov\Documents\Visual Studio 2017\Projects\RGGRouletteApp\RGGRouletteApp\obj\Debug\RGGRouletteApp.pdb
+C:\Users\vasilymakrov\Dropbox\RGGRouletteApp\RGGRouletteApp\bin\Debug\RGGRouletteApp.exe
+C:\Users\vasilymakrov\Dropbox\RGGRouletteApp\RGGRouletteApp\bin\Debug\RGGRouletteApp.pdb
+C:\Users\vasilymakrov\Dropbox\RGGRouletteApp\RGGRouletteApp\bin\Debug\RGGRouletteApp.xml
+C:\Users\vasilymakrov\Dropbox\RGGRouletteApp\RGGRouletteApp\obj\Debug\RGGRouletteApp.vbprojResolveAssemblyReference.cache
+C:\Users\vasilymakrov\Dropbox\RGGRouletteApp\RGGRouletteApp\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\vasilymakrov\Dropbox\RGGRouletteApp\RGGRouletteApp\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\vasilymakrov\Dropbox\RGGRouletteApp\RGGRouletteApp\obj\Debug\RGGRouletteApp.vbproj.GenerateResource.Cache
+C:\Users\vasilymakrov\Dropbox\RGGRouletteApp\RGGRouletteApp\obj\Debug\RGGRouletteApp.exe
+C:\Users\vasilymakrov\Dropbox\RGGRouletteApp\RGGRouletteApp\obj\Debug\RGGRouletteApp.xml
+C:\Users\vasilymakrov\Dropbox\RGGRouletteApp\RGGRouletteApp\obj\Debug\RGGRouletteApp.pdb
+C:\Users\vasilymakrov\Dropbox\RGGRouletteApp\RGGRouletteApp\obj\Debug\WindowsApp1.Form2.resources
